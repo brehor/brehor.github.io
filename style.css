@@ -8,12 +8,14 @@
     border-radius: 5px;
     padding: 15px;
 }
+
 #heading {
     border: 1px dashed grey;
     border-radius: 5px;
     padding: 5px;
+    text-align: center;
 }
+
 h1 {
     font-weight: 600;
-    text-align: center;
 }
