@@ -1,0 +1,19 @@
+* {
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+#content {
+    margin: 20px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    padding: 15px;
+}
+#heading {
+    border: 1px dashed grey;
+    border-radius: 5px;
+    padding: 5px;
+}
+h1 {
+    font-weight: 600;
+    text-align: center;
+}
