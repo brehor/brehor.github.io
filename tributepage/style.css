@@ -1,0 +1,33 @@
+body {
+    background-color: wheat;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+main {
+    background-color: oldlace;
+    width: 70%;
+    margin: 0 auto;
+    padding: 20px
+}
+
+#heading {
+    text-align: center;
+    display: block;
+}
+
+h1 {
+    font-family: Verdana, serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#img-div {
+    width: 90%;
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#image {
+    width: 100%;
+}
