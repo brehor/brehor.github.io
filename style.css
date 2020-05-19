@@ -8,6 +8,13 @@
     border-radius: 5px;
     box-shadow: 0 10px 15px rgba(0, 0, 0, 0.13), 0 3px 6px rgba(0, 0, 0, 0.2);
     max-width: 1024px;
+    background: repeating-linear-gradient(
+      45deg,
+      yellow 0px,
+      yellow 40px,
+      black 40px,
+      black 80px
+    );
 }
 
 #heading {
@@ -15,6 +22,7 @@
     border-radius: 5px;
     padding: 10px;
     text-align: center;
+    background: white;
 }
 
 h1 {
